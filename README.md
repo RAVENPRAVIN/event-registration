@@ -31,6 +31,7 @@ Publish the website in the given URL.
 
 
 ## HOME PAGE:
+```
 
 <div style="width: 312px; height: 46px; left: 24px; top: 128px; position: absolute; text-align:
 center; color: #F00808; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-
@@ -60,6 +61,8 @@ solid"></div>
 <img style="width: 333px; height: 84.15px; left: 13px; top: 14px; position: absolute"
 src="https://via.placeholder.com/333x84" />
 </div>
+
+```
 
  ## STYLE.CSS:
 ```
