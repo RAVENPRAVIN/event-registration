@@ -377,4 +377,4 @@ word-wrap: break-word
 <img width="956" alt="submit pg" src="https://github.com/RAVENPRAVIN/event-registration/assets/146820534/c92911bd-74d8-4a70-8d97-97a03e602f7f">
 
 ## Result:
-
+The Program code is successfully executed.
