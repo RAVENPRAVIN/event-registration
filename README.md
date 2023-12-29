@@ -31,12 +31,15 @@ Publish the website in the given URL.
 
 
 ## HOME PAGE:
+
 <div style="width: 312px; height: 46px; left: 24px; top: 128px; position: absolute; text-align:
-center; color: #F00808; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: breakword">Drestrian Event Page</div>
+center; color: #F00808; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-
+word">Drestrian Event Page</div>
 <img style="width: 113px; height: 101px; left: 115px; top: 174px; position: absolute"
 src="https://via.placeholder.com/113x101" />
 <div style="width: 266px; height: 35px; left: 41px; top: 305px; position: absolute; text-align:
-center; color: black; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: breakword">Register Here</div>
+center; color: black; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-
+word">Register Here</div>
 <div style="width: 287px; height: 45px; left: 38px; top: 388px; position: absolute; background:
 #F1F507"></div>
 <div style="width: 287px; height: 45px; left: 38px; top: 495px; position: absolute; background:
