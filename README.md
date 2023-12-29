@@ -362,7 +362,13 @@ word-wrap: break-word
 
 
 ## OUTPUT:
+<img width="959" alt="home page" src="https://github.com/RAVENPRAVIN/event-registration/assets/146820534/d1319e67-ce46-435c-83cf-62de1f96aab1">
 
+<img width="960" alt="event pg" src="https://github.com/RAVENPRAVIN/event-registration/assets/146820534/8a7dfd72-2b45-4b0a-bc11-dff4dbc1ff81">
+
+<img width="959" alt="dept,pg" src="https://github.com/RAVENPRAVIN/event-registration/assets/146820534/ff6bfd99-3ebd-4776-b5f7-90dedb861412">
+
+<img width="956" alt="submit pg" src="https://github.com/RAVENPRAVIN/event-registration/assets/146820534/c92911bd-74d8-4a70-8d97-97a03e602f7f">
 
 ## Result:
 
